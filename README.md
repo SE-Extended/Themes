@@ -1,10 +1,10 @@
 # SE Extended Themes
 
-Welcome to the SE Extended Themes repository! Here, you can upload your custom themes and download themes created by others.
+Welcome to the SE Extended Themes repository! Here, you can upload your custom themes and download themes created by other users
 
 ## How to Contribute a Theme
 
-1. **Fork this Repository**: Click the 'Fork' button at the top right of this page to create a copy of this repository in your account.
+1. **Fork this Repository**: Click the 'Fork' button at the top right of this page to create a copy of this repository on your account.
 2. **Upload Your Theme**:
     - Go to your forked repository.
     - Navigate to the `themes/` directory.
@@ -12,12 +12,12 @@ Welcome to the SE Extended Themes repository! Here, you can upload your custom t
     - Upload your theme JSON file.
     - Commit the changes.
 3. **Create a Pull Request**:
-    - Go back to the original repository.
-    - Click on `Pull Requests` and then `New Pull Request`.
+    - Go back to [SE-Extended/Themes](https://github.com/SE-Extended/Themes)
+    - Click on `Pull Requests` and then click `New Pull Request`.
     - Select your forked repository and the branch with your theme.
     - Create the pull request.
 
-Your theme will be reviewed and merged into the main repository.
+Your theme will be reviewed and merged into the repository.
 
 ## How to Download a Theme
 
@@ -30,6 +30,6 @@ Your theme will be reviewed and merged into the main repository.
 ## Guidelines
 
 - Ensure your theme file is in JSON format.(The theme can be exported through SE Extended)
-- In the Pull request comment, Name your theme file descriptively
+- In the Pull request comment with your theme name
 
 Thank you for contributing!
