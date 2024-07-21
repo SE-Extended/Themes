@@ -1,0 +1,166 @@
+{
+  "author": "SE Extended",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -16777216
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -1
+      },
+      {
+        "key": "sigExceptionColorCameraGridLines",
+        "value": -16777216
+      },
+      {
+        "key": "listDivider",
+        "value": -16777216
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorIconPrimary",
+        "value": -1
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -1
+      },
+      {
+        "key": "ringColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -1
+      },
+      {
+        "key": "itemShapeFillColor",
+        "value": -1
+      },
+      {
+        "key": "ringStartColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorLayoutPlaceholder",
+        "value": -16777216
+      },
+      {
+        "key": "scButtonColor",
+        "value": -1
+      },
+      {
+        "key": "recipientPillBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "boxBackgroundColor",
+        "value": -16777216
+      },
+      {
+        "key": "editTextColor",
+        "value": -1
+      },
+      {
+        "key": "chipBackgroundColor",
+        "value": -16777216
+      },
+      {
+        "key": "recipientInputStyle",
+        "value": -1
+      },
+      {
+        "key": "rangeFillColor",
+        "value": -1
+      },
+      {
+        "key": "pstsIndicatorColor",
+        "value": -1
+      },
+      {
+        "key": "pstsTabBackground",
+        "value": -16777216
+      },
+      {
+        "key": "pstsDividerColor",
+        "value": -16777216
+      },
+      {
+        "key": "tabTextColor",
+        "value": -1
+      },
+      {
+        "key": "statusBarForeground",
+        "value": -16777216
+      },
+      {
+        "key": "statusBarBackground",
+        "value": -16777216
+      },
+      {
+        "key": "strokeColor",
+        "value": -1
+      },
+      {
+        "key": "storyReplayViewRingColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorButtonPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorBaseAppYellow",
+        "value": -1
+      },
+      {
+        "key": "sigColorBackgroundSurfaceTranslucent",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorStoryRingFriendsFeedStoryRing",
+        "value": -1
+      },
+      {
+        "key": "sigColorStoryRingDiscoverTabThumbnailStoryRing",
+        "value": -1
+      }
+    ]
+  },
+  "description": "A full AMOLED Black Theme",
+  "name": "Full AMOLED Black",
+  "version": "1.0.0"
+}
