@@ -1,0 +1,50 @@
+{
+  "author": "SE Extended",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -10822855
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -10822855
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -10822855
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -10822855
+      },
+      {
+        "key": "listDivider",
+        "value": -10822855
+      },
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -1
+      }
+    ]
+  },
+  "description": "HISTORY HERITAGE ( 4 / 6 )",
+  "name": "MARKET APPLE",
+  "version": "1.0.0"
+}

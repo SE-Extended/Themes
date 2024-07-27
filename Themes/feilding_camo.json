@@ -1,0 +1,54 @@
+{
+  "author": "SE Extended",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -5543372
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -5543372
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -5543372
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -5543372
+      },
+      {
+        "key": "listDivider",
+        "value": -5543372
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -1
+      },
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -1
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -1
+      }
+    ]
+  },
+  "description": "HISTORY HERITAGE ( 2 / 6 )",
+  "name": "FEILDING CAMO",
+  "version": "1.0.0"
+}

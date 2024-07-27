@@ -1,0 +1,54 @@
+{
+  "author": "SE Extended",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -3398365
+      },
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -3398365
+      },
+      {
+        "key": "listDivider",
+        "value": -3398365
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -3398365
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -3398365
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -1
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -1
+      }
+    ]
+  },
+  "description": "HISTORY HERITAGE ( 1 / 6 )",
+  "name": "TRIPONTIUM TERRACOTTA",
+  "version": "1.0.0"
+}

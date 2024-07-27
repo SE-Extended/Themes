@@ -1,0 +1,54 @@
+{
+  "author": "SE Extended",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -13998168
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -13998168
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -13998168
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -13998168
+      },
+      {
+        "key": "listDivider",
+        "value": -13998168
+      },
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -1
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -1
+      }
+    ]
+  },
+  "description": "HISTORY HERITAGE ( 6 / 6 )",
+  "name": "OXFORD WATER",
+  "version": "1.0.0"
+}
