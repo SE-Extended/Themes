@@ -25,6 +25,36 @@ Welcome to the SE Extended Themes repository!, Here you can upload your custom t
     - Open `Snapchat`.
 
 The Theme should now be loaded.
+## How to Create a Theme
+
+1. **Theming Quick Action**:
+    - Open `SE Extended`.
+    - Scroll down to `Quick Actions`.
+    - Tap `Theming`.
+2. **Creating a Theme**:
+   - Click `+ New theme`.
+    - **Adding MegaData**:
+       - Give the Theme a name.
+       - Click the arrow down icon.
+       - Give the Theme a description.
+       - Version the theme.
+       - Add your name as `Author`.
+    - **Adding Colors**:
+       - Click `+`.
+       - Click on a attribute, E.G. `Main Text Color(sigColorTextPrimary)`.
+       - Click the white circle.
+       - Pick a color.
+       - Back out of the color picker.
+       - Click the save icon. 
+3. **Enabling the Theme**:
+    - Click the toggle next to a theme.
+    - Close `Snapchat` from the recent tabs.
+    - Open `Snapchat`.
+4. **Exporting the Theme**:
+    - Click the settings icon.
+    - Click `Export`.
+    - CLick Save.
+
 ## How to Contribute a Theme
 
 1. **Fork this Repository**: Click the 'Fork' button at the top right of this page to create a copy of this repository on your account.
