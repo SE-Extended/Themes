@@ -4,23 +4,23 @@
     "colors": [
       {
         "key": "sigColorBackgroundMain",
-        "value": -13998168
+        "value": -3227088
       },
       {
         "key": "sigColorBackgroundSurface",
-        "value": -13998168
+        "value": -3227088
       },
       {
         "key": "actionSheetBackgroundDrawable",
-        "value": -13998168
+        "value": -3227088
       },
       {
         "key": "actionSheetRoundedBackgroundDrawable",
-        "value": -13998168
+        "value": -3227088
       },
       {
         "key": "listDivider",
-        "value": -13998168
+        "value": -3227088
       },
       {
         "key": "sigColorTextPrimary",
@@ -48,7 +48,7 @@
       }
     ]
   },
-  "description": "HISTORY & HERITAGE ( 6 / 6 )",
-  "name": "OXFORD WATER",
-  "version": "1.0.1"
+  "description": "CREATIVITY \u0026 CULTURE ( 3 / 6 )",
+  "name": "GALLERY GOLD",
+  "version": "1.0.0"
 }

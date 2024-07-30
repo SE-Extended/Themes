@@ -4,51 +4,51 @@
     "colors": [
       {
         "key": "sigColorBackgroundMain",
-        "value": -13998168
+        "value": -1315366
       },
       {
         "key": "sigColorBackgroundSurface",
-        "value": -13998168
+        "value": -1315366
       },
       {
         "key": "actionSheetBackgroundDrawable",
-        "value": -13998168
+        "value": -1315366
       },
       {
         "key": "actionSheetRoundedBackgroundDrawable",
-        "value": -13998168
+        "value": -1315366
       },
       {
         "key": "listDivider",
-        "value": -13998168
+        "value": -1315366
       },
       {
         "key": "sigColorTextPrimary",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "sigColorChatChat",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "sigColorChatPendingSending",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "sigColorChatSnapWithSound",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "sigColorChatSnapWithoutSound",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "actionSheetDescriptionTextColor",
-        "value": -1
+        "value": -16777216
       }
     ]
   },
-  "description": "HISTORY & HERITAGE ( 6 / 6 )",
-  "name": "OXFORD WATER",
-  "version": "1.0.1"
+  "description": "CREATIVITY \u0026 CULTURE ( 4 / 6 )",
+  "name": "COMMUNITY CANVAS",
+  "version": "1.0.0"
 }
