@@ -1,0 +1,166 @@
+{
+  "author": "SE-EXTENDED",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorTextPrimary",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -6197177
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -6197177
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -6197177
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -6197177
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -1
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -14207745
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -65501
+      },
+      {
+        "key": "sigExceptionColorCameraGridLines",
+        "value": -16777216
+      },
+      {
+        "key": "listDivider",
+        "value": -16777216
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -6197177
+      },
+      {
+        "key": "sigColorIconPrimary",
+        "value": -7536896
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -1
+      },
+      {
+        "key": "ringColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -7536896
+      },
+      {
+        "key": "itemShapeFillColor",
+        "value": -1
+      },
+      {
+        "key": "ringStartColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorLayoutPlaceholder",
+        "value": -1
+      },
+      {
+        "key": "scButtonColor",
+        "value": -1
+      },
+      {
+        "key": "recipientPillBackgroundDrawable",
+        "value": -6197177
+      },
+      {
+        "key": "boxBackgroundColor",
+        "value": -6197177
+      },
+      {
+        "key": "editTextColor",
+        "value": -1
+      },
+      {
+        "key": "chipBackgroundColor",
+        "value": -6197177
+      },
+      {
+        "key": "recipientInputStyle",
+        "value": -1
+      },
+      {
+        "key": "rangeFillColor",
+        "value": -1
+      },
+      {
+        "key": "pstsIndicatorColor",
+        "value": -16777216
+      },
+      {
+        "key": "pstsTabBackground",
+        "value": -16777216
+      },
+      {
+        "key": "pstsDividerColor",
+        "value": -1
+      },
+      {
+        "key": "tabTextColor",
+        "value": -1
+      },
+      {
+        "key": "statusBarForeground",
+        "value": -6197177
+      },
+      {
+        "key": "statusBarBackground",
+        "value": -6197177
+      },
+      {
+        "key": "strokeColor",
+        "value": -1
+      },
+      {
+        "key": "storyReplayViewRingColor",
+        "value": -1
+      },
+      {
+        "key": "sigColorButtonPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorBaseAppYellow",
+        "value": -1
+      },
+      {
+        "key": "sigColorBackgroundSurfaceTranslucent",
+        "value": -6197177
+      },
+      {
+        "key": "sigColorStoryRingFriendsFeedStoryRing",
+        "value": -1
+      },
+      {
+        "key": "sigColorStoryRingDiscoverTabThumbnailStoryRing",
+        "value": -1
+      }
+    ]
+  },
+  "description": "Caramel Flavour embodies the essence of warmth \u0026 comfort with it\u0027s luscious golden tones \u0026 intricate depth\nCaramel Flavour Theme is somewhat simple \u0026 clean + asthetically pleasent.",
+  "name": "Caramel Flavour ",
+  "version": "1.0.0"
+}
