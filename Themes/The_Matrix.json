@@ -1,0 +1,166 @@
+{
+  "author": "M0RP3U57",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorTextPrimary",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -16777216
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorChatChat",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorChatPendingSending",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -7274241
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -65536
+      },
+      {
+        "key": "sigExceptionColorCameraGridLines",
+        "value": -16777216
+      },
+      {
+        "key": "listDivider",
+        "value": -16711936
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorIconPrimary",
+        "value": -16711936
+      },
+      {
+        "key": "actionSheetDescriptionTextColor",
+        "value": -16711936
+      },
+      {
+        "key": "ringColor",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -16777216
+      },
+      {
+        "key": "itemShapeFillColor",
+        "value": -16711936
+      },
+      {
+        "key": "ringStartColor",
+        "value": -16711936
+      },
+      {
+        "key": "scButtonColor",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorLayoutPlaceholder",
+        "value": -16711936
+      },
+      {
+        "key": "recipientPillBackgroundDrawable",
+        "value": -16777216
+      },
+      {
+        "key": "boxBackgroundColor",
+        "value": -16777216
+      },
+      {
+        "key": "editTextColor",
+        "value": -16711936
+      },
+      {
+        "key": "chipBackgroundColor",
+        "value": -16777216
+      },
+      {
+        "key": "recipientInputStyle",
+        "value": -16711936
+      },
+      {
+        "key": "rangeFillColor",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorBackgroundSurfaceTranslucent",
+        "value": -16777216
+      },
+      {
+        "key": "pstsIndicatorColor",
+        "value": -16711936
+      },
+      {
+        "key": "pstsTabBackground",
+        "value": -16777216
+      },
+      {
+        "key": "pstsDividerColor",
+        "value": -16777216
+      },
+      {
+        "key": "tabTextColor",
+        "value": -16711936
+      },
+      {
+        "key": "statusBarForeground",
+        "value": -16777216
+      },
+      {
+        "key": "statusBarBackground",
+        "value": -16777216
+      },
+      {
+        "key": "strokeColor",
+        "value": -16711936
+      },
+      {
+        "key": "storyReplayViewRingColor",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorButtonPrimary",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorBaseAppYellow",
+        "value": -256
+      },
+      {
+        "key": "sigColorStoryRingFriendsFeedStoryRing",
+        "value": -16711936
+      },
+      {
+        "key": "sigColorStoryRingDiscoverTabThumbnailStoryRing",
+        "value": -16711936
+      }
+    ]
+  },
+  "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
+  "name": "The Matrix",
+  "version": "1.0.0"
+}
