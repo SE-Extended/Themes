@@ -90,6 +90,27 @@
       "description": "CREATIVITY & CULTURE ( 6 / 6 )",
       "version": "1.0.0",
       "filepath": "Themes/brooke_ink.json"
+    },
+    {
+      "name": "Caramel Flavour",
+      "author": "Beingzain",
+      "description": "Caramel Flavour embodies the essence of warmth \u0026 comfort with it\u0027s luscious golden tones \u0026 intricate depth\nCaramel Flavour Theme is somewhat simple \u0026 clean + aesthetically pleasant.",
+      "version": "1.0.0",
+      "filepath": "Themes/caramel_flavour_.json"
+    },
+    {
+      "name": "Enigmatic Eclipse",
+      "author": "Suryadip Sarkar",
+      "description": "Embrace the Mystery of the Night with the Enigmatic Eclipse Theme!",
+      "version": "1.0.0",
+      "filepath": "Themes/caramel_flavour_.json"
+    },
+    {
+      "name": "The Matrix",
+      "author": "M0RP3U57",
+      "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
+      "version": "1.0.0",
+      "filepath": "Themes/The_Matrix.json"
     }
   ]
 }
