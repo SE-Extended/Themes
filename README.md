@@ -29,7 +29,7 @@ Welcome to the SE Extended Themes repository!, Here you can upload your custom t
     - Tap `Theming`.
 2. **Creating a Theme**:
    - Click `+ New theme`.
-    - **Adding MegaData**:
+    - **Adding MetaData**:
        - Give the Theme a name.
        - Click the `arrow down` icon.
        - Give the Theme a `description`.
