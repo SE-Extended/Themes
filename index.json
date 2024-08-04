@@ -1,95 +1,116 @@
 {
   "themes": [
     {
-      "name": "FULL AMOLED DARK",
+      "name": "Full AMOLED Dark",
       "author": "SE Extended",
       "description": "A Full AMOLED Dark Theme",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "filepath": "Themes/full_amoled_dark.json"
     },
     {
-      "name": "TRIPONTIUM TERRACOTTA",
+      "name": "Tripontium Terracotta",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 1 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 1 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/tripontium_terracotta.json"
     },
     {
-      "name": "FEILDING CAMO",
+      "name": "Feilding Camo",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 2 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 2 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/feilding_camo.json"
     },
     {
-      "name": "BUTTERFIELD BRICK",
+      "name": "Butterfield Brick",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 3 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 3 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/butterfield_brick_.json"
     },
     {
-      "name": "MARKET APPLE",
+      "name": "Market Apple",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 4 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 4 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/market_apple.json"
     },
     {
-      "name": "CALDECOTT ALLIUM",
+      "name": "Caldecott Allium",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 5 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 5 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/caldecott_allium_.json"
     },
     {
-      "name": "OXFORD WATER",
+      "name": "Oxford Water",
       "author": "SE Extended",
-      "description": "HISTORY & HERITAGE ( 6 / 6 )",
-      "version": "1.0.1",
+      "description": "History & Heritage ( 6 / 6 )",
+      "version": "1.0.2",
       "filepath": "Themes/oxford_water_.json"
     },
     {
-      "name": "SCHOOL DAYS BROWN",
+      "name": "School Days Brown",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 1 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 1 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/school_days_brown_.json"
     },
     {
-      "name": "GILBERT LEATHER",
+      "name": "Gilbert Leather",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 2 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 2 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/gilbert_leather_.json"
     },
     {
-      "name": "GALLERY GOLD",
+      "name": "Gallery Gold",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 3 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 3 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/gallery_gold.json"
     },
     {
-      "name": "COMMUNITY CANVAS",
+      "name": "Community Canvas",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 4 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 4 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/community_canvas.json"
     },
     {
-      "name": "HOLOGRAM PASTEL",
+      "name": "Hologram Pastel",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 5 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 5 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/hologram_pastel_.json"
     },
     {
-      "name": "BROOKE INK",
+      "name": "Brooke Ink",
       "author": "SE Extended",
-      "description": "CREATIVITY & CULTURE ( 6 / 6 )",
-      "version": "1.0.0",
+      "description": "Creativity & Culture ( 6 / 6 )",
+      "version": "1.0.1",
       "filepath": "Themes/brooke_ink.json"
+    },
+    {
+      "name": "Caramel Flavour",
+      "author": "Beingzain",
+      "description": "Caramel Flavour embodies the essence of warmth \u0026 comfort with it\u0027s luscious golden tones \u0026 intricate depth\nCaramel Flavour Theme is somewhat simple \u0026 clean + aesthetically pleasant.",
+      "version": "1.0.0",
+      "filepath": "Themes/caramel_flavour_.json"
+    },
+    {
+      "name": "Enigmatic Eclipse",
+      "author": "Suryadip Sarkar",
+      "description": "Embrace the Mystery of the Night with the Enigmatic Eclipse Theme!",
+      "version": "1.0.0",
+      "filepath": "Themes/caramel_flavour_.json"
+    },
+    {
+      "name": "The Matrix",
+      "author": "M0RP3U57",
+      "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
+      "version": "1.0.0",
+      "filepath": "Themes/The_Matrix.json"
     }
   ]
 }

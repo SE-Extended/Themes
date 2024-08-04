@@ -1,17 +1,17 @@
 {
-  "author": "SE Extended",
+  "author": "M0RP3U57",
   "content": {
     "colors": [
       {
         "key": "sigColorTextPrimary",
-        "value": -1
-      },
-      {
-        "key": "sigColorBackgroundSurface",
-        "value": -16777216
+        "value": -16711936
       },
       {
         "key": "sigColorBackgroundMain",
+        "value": -16777216
+      },
+      {
+        "key": "sigColorBackgroundSurface",
         "value": -16777216
       },
       {
@@ -24,19 +24,19 @@
       },
       {
         "key": "sigColorChatChat",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorChatPendingSending",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorChatSnapWithSound",
-        "value": -1
+        "value": -7274241
       },
       {
         "key": "sigColorChatSnapWithoutSound",
-        "value": -1
+        "value": -65536
       },
       {
         "key": "sigExceptionColorCameraGridLines",
@@ -44,7 +44,7 @@
       },
       {
         "key": "listDivider",
-        "value": -16777216
+        "value": -16711936
       },
       {
         "key": "listBackgroundDrawable",
@@ -52,35 +52,35 @@
       },
       {
         "key": "sigColorIconPrimary",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "actionSheetDescriptionTextColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "ringColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorIconSecondary",
-        "value": -1
-      },
-      {
-        "key": "itemShapeFillColor",
-        "value": -1
-      },
-      {
-        "key": "ringStartColor",
-        "value": -1
-      },
-      {
-        "key": "sigColorLayoutPlaceholder",
         "value": -16777216
       },
       {
+        "key": "itemShapeFillColor",
+        "value": -16711936
+      },
+      {
+        "key": "ringStartColor",
+        "value": -16711936
+      },
+      {
         "key": "scButtonColor",
-        "value": -1
+        "value": -16711936
+      },
+      {
+        "key": "sigColorLayoutPlaceholder",
+        "value": -16711936
       },
       {
         "key": "recipientPillBackgroundDrawable",
@@ -92,7 +92,7 @@
       },
       {
         "key": "editTextColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "chipBackgroundColor",
@@ -100,15 +100,19 @@
       },
       {
         "key": "recipientInputStyle",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "rangeFillColor",
-        "value": -1
+        "value": -16711936
+      },
+      {
+        "key": "sigColorBackgroundSurfaceTranslucent",
+        "value": -16777216
       },
       {
         "key": "pstsIndicatorColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "pstsTabBackground",
@@ -120,7 +124,7 @@
       },
       {
         "key": "tabTextColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "statusBarForeground",
@@ -132,35 +136,31 @@
       },
       {
         "key": "strokeColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "storyReplayViewRingColor",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorButtonPrimary",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorBaseAppYellow",
-        "value": -1
-      },
-      {
-        "key": "sigColorBackgroundSurfaceTranslucent",
-        "value": -16777216
+        "value": -256
       },
       {
         "key": "sigColorStoryRingFriendsFeedStoryRing",
-        "value": -1
+        "value": -16711936
       },
       {
         "key": "sigColorStoryRingDiscoverTabThumbnailStoryRing",
-        "value": -1
+        "value": -16711936
       }
     ]
   },
-  "description": "A Full AMOLED Dark Theme",
-  "name": "Full AMOLED Dark",
-  "version": "1.0.1"
+  "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
+  "name": "The Matrix",
+  "version": "1.0.0"
 }
