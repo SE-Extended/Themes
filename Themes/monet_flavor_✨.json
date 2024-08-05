@@ -1,0 +1,58 @@
+{
+  "author": "BeingZain",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorTextPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -16313819
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -15848089
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -15848089
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -15848089
+      },
+      {
+        "key": "sigColorChatSnapWithSound",
+        "value": -8175
+      },
+      {
+        "key": "sigColorChatSnapWithoutSound",
+        "value": -7274752
+      },
+      {
+        "key": "listDivider",
+        "value": 16777215
+      },
+      {
+        "key": "sigColorIconPrimary",
+        "value": -1
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -16313819
+      },
+      {
+        "key": "sigExceptionColorCameraGridLines",
+        "value": 16777215
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -1
+      }
+    ]
+  },
+  "description": "\"Monet Flavour Is A Combination Of Dark Blue \u0026 Light Blue Colors 🩵👀\"",
+  "name": "Monet Flavor ✨",
+  "version": "1.0.0"
+}
