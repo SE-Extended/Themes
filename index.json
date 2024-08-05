@@ -111,6 +111,13 @@
       "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
       "version": "1.0.0",
       "filepath": "Themes/The_Matrix.json"
+      },
+      {
+      "name": "Monet Flavour",
+      "author": "Beingzain",
+      "description": "Monet Flavor Is A Combination Of Dark Blue & Light Blue 💙👀✨.",
+      "version": "1.0.0",
+      "filepath": "Themes/monet_flavor_.json"
     }
   ]
 }
