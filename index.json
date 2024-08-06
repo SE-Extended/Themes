@@ -92,6 +92,13 @@
       "filepath": "Themes/brooke_ink.json"
     },
     {
+      "name": "Koala 🐨",
+      "author": "SE Extended",
+      "description": "Theme Based on the Koala Animal",
+      "version": "1.0.0",
+      "filepath": "Themes/koala_🐨_.json"
+    },
+    {
       "name": "Caramel Flavour",
       "author": "BeingZain",
       "description": "Caramel Flavour embodies the essence of warmth \u0026 comfort with it\u0027s luscious golden tones \u0026 intricate depth\nCaramel Flavour Theme is somewhat simple \u0026 clean + aesthetically pleasant.",
@@ -111,10 +118,10 @@
       "description": "A color theme inspired by The Matrix, featuring a combination of black and light green.",
       "version": "1.0.0",
       "filepath": "Themes/The_Matrix.json"
-      },
-      {
+    },
+    {
       "name": "Monet Flavour",
-      "author": "Beingzain",
+      "author": "BeingZain",
       "description": "Monet Flavor Is A Combination Of Dark Blue & Light Blue 💙👀✨.",
       "version": "1.0.0",
       "filepath": "Themes/monet_flavor_✨.json"
