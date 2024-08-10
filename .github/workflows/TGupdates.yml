@@ -1,0 +1,26 @@
+name: Telegram
+on:
+  push:
+     paths:
+      - Themes/**
+
+jobs:
+  build:
+    name: Sending Message Via Bot
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sending Message
+        uses: appleboy/telegram-action@master
+        with:
+         to: ${{secrets.TELEGRAM_CHAT_ID}}
+         token: ${{secrets.TELEGRAM_TOKEN}}
+         disable_web_page_preview: true
+         format: markdown
+         message: |
+           *Update on the Themes Repository!*
+           
+           *Commit:*
+           ${{ github.event.head_commit.message }}
+           
+           Changes can be found [Here](https://github.com/${{ github.repository }}/commit/${{github.sha}})
