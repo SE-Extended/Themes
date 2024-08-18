@@ -1,0 +1,38 @@
+{
+  "author": "Beingzain",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -12303743
+      },
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -12303743
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -12303743
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -12303743
+      },
+      {
+        "key": "listDivider",
+        "value": 16777215
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -12303743
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -769
+      }
+    ]
+  },
+  "description": "Blueberry Flavour Theme Is A Combination Of Purple \u0026 White Colors.",
+  "name": "Blueberry Flavour ✨",
+  "version": "1.0.0"
+}
