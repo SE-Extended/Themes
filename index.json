@@ -125,6 +125,13 @@
       "description": "Monet Flavor Is A Combination Of Dark Blue & Light Blue 💙👀✨.",
       "version": "1.0.0",
       "filepath": "Themes/monet_flavor_✨.json"
+    },
+    {
+      "name": "Blueberry Flavour",
+      "author": "BeingZain",
+      "description": "Blueberry Flavour Theme Is A Combination Of Purple & White Colors✨.",
+      "version": "1.0.0",
+      "filepath": "Themes/blueberry_flavour.json"
     }
   ]
 }
