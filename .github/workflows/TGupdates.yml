@@ -23,4 +23,5 @@ jobs:
            *Commit:*
            ${{ github.event.head_commit.message }}
            
-           Changes can be found [Here](https://github.com/${{ github.repository }}/commit/${{github.sha}})
+           Themes Repository Link:
+           https://github.com/SE-Extended/Themes 
