@@ -132,6 +132,13 @@
       "description": "Blueberry Flavour Theme Is A Combination Of Purple & White Colors✨.",
       "version": "1.0.0",
       "filepath": "Themes/blueberry_flavour_✨.json"
+    },
+    {
+      "name": "Baby Pink 💕",
+      "author": "BeingZain",
+      "description": "Step into a rose-tinted wonderland with the Pink theme. Soft, feminine, and oh-so chic, this delightful theme captures the essence of elegance and grace💕.",
+      "version": "1.0.0",
+      "filepath": "Themes/baby_pink_.json"
     }
   ]
 }

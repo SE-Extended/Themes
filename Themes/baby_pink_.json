@@ -1,0 +1,46 @@
+{
+  "author": "Beingzain ",
+  "content": {
+    "colors": [
+      {
+        "key": "sigColorBackgroundSurface",
+        "value": -187424648
+      },
+      {
+        "key": "actionSheetBackgroundDrawable",
+        "value": -187424648
+      },
+      {
+        "key": "actionSheetRoundedBackgroundDrawable",
+        "value": -187424648
+      },
+      {
+        "key": "sigColorBackgroundMain",
+        "value": -187424648
+      },
+      {
+        "key": "sigExceptionColorCameraGridLines",
+        "value": 16777215
+      },
+      {
+        "key": "listDivider",
+        "value": 16777215
+      },
+      {
+        "key": "listBackgroundDrawable",
+        "value": -187424648
+      },
+      {
+        "key": "sigColorIconPrimary",
+        "value": -1
+      },
+      {
+        "key": "sigColorIconSecondary",
+        "value": -1
+      }
+    ]
+  },
+  "description": "Step into a rose-tinted wonderland with the Pink theme. Soft, feminine, and oh-so chic, this delightful theme captures the essence of elegance and grace.",
+  "name": "Baby Pink 🩷",
+  "version": "1.0.0"
+}
