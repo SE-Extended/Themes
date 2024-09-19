@@ -4,7 +4,8 @@
 ![Maintainer](https://img.shields.io/badge/maintainer-bocajthomas-black)
 
 # SE Extended Themes
-Welcome to the SE Extended Themes repository!, Here you can upload your custom themes and download themes created by other users
+Welcome to the SE Extended Themes repository! <br>
+Here you can upload your custom themes and download themes created by other users
 </div>
 
 ## How to Download a Theme
